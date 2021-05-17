@@ -1,10 +1,10 @@
 # APEACH - Korean Hate Speech Evaluation Datasets
 
-**APEACH2021** is the first crowd-generated Korean evaluation dataset for hate speech detection. Sentences of the dataset are created by unspecified workers and moderated by a crowd-sourcing platform [DeepNatural AI](https://www.deepnatural.ai/).
+**APEACH** is the first crowd-generated Korean evaluation dataset for hate speech detection. Sentences of the dataset are created by unspecified workers and moderated by a crowd-sourcing platform [DeepNatural AI](https://www.deepnatural.ai/).
 
 ## Download
 
-- APEACH2021 : You can download benchmark set **APEACH2021**.  `APEACH2021/test.csv`  in this repository.
+You can download benchmark set **APEACH2021**.  `APEACH2021/test.csv`  in this repository.
 
 ## Dataset Description
 
