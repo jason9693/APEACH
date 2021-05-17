@@ -33,25 +33,23 @@ The sentences of our dataset are created by unspecified workers, moderated by a 
 
 | Name               | Beep! Dev Dataset | Apeach-2021 (Ours) |
 | ------------------ | ----------------- | ------------------ |
-| SoongsilBERT-Base | 0.8260774883      | 0.8424406845       |
-| SoongsilBERT-Small | 0.8148655904      | 0.8227619749       |
-| KcBERT-base        | 0.8087641117      | 0.8086445881       |
-| KcBERT-large       | 0.8295103829      | 0.8116314931       |
-| KoDistillBERT      | 0.756979624       | 0.7715461816       |
-| KoELECTRA-V3       | 0.792013485       | 0.8100758509       |
-| KoBERT             | 0.8029963116      | 0.7884561101       |
+| SoongsilBERT-Base | 0.8261 | **0.8424** |
+| SoongsilBERT-Small | 0.8149            | 0.8228 |
+| KcBERT-base        | 0.8088 | 0.8086 |
+| KcBERT-large       | **0.8295** | 0.8116 |
+| DistillKoBERT | 0.7570 | 0.7715 |
+| KoELECTRA-V3       | 0.7920 | 0.8101 |
+| KoBERT             | 0.8030 | 0.7885 |
 
 We also share SOTA model of our dataset which we trained in this experiment as checkpoint, [demo webite](https://master-soongsil-bert-base-beep-deploy-jason9693.endpoint.ainize.ai) and [api](https://github.com/jason9693/SoongsilBERT-base-beep-deploy).
-
-
 
 ## Contributors
 
 The main contributors of the work (* : equal contribution) : 
 
-- Kichang Yang *([Kakao Enterprise](https://www.kakaoenterprise.com/), [Soongsil University](https://eng.ssu.ac.kr))**
-- Wonjun Jang *([Soongsil University](https://eng.ssu.ac.kr))**
-- Won Ik Cho *([Seoul National University](https://en.snu.ac.kr/index.html))**
+- Kichang Yang* ([Kakao Enterprise](https://www.kakaoenterprise.com/), [Soongsil University](https://eng.ssu.ac.kr))**
+- Wonjun Jang* ([Soongsil University](https://eng.ssu.ac.kr))**
+- Won Ik Cho* ([Seoul National University](https://en.snu.ac.kr/index.html))**
 
 ## License
 
