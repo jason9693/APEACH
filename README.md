@@ -45,11 +45,11 @@ We also share SOTA model of our dataset which we trained in this experiment as c
 
 ## Contributors
 
-The main contributors of the work (* : equal contribution) : 
+The main contributors of the work ( * : equal contribution) : 
 
-- Kichang Yang* ([Kakao Enterprise](https://www.kakaoenterprise.com/), [Soongsil University](https://eng.ssu.ac.kr))**
-- Wonjun Jang* ([Soongsil University](https://eng.ssu.ac.kr))**
-- Won Ik Cho* ([Seoul National University](https://en.snu.ac.kr/index.html))**
+- [Kichang Yang](https://github.com/jason9693)* ([*Kakao Enterprise*](https://www.kakaoenterprise.com/), [*Soongsil University*](https://eng.ssu.ac.kr))
+- [Wonjun Jang](https://github.com/strutive07)* ([*Soongsil University*](https://eng.ssu.ac.kr))
+- [Won Ik Cho](https://github.com/warnikchow)* ([*Seoul National University*](https://en.snu.ac.kr/index.html))
 
 ## License
 
