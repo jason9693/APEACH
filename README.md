@@ -34,7 +34,7 @@ You can download benchmark set **APEACH**.  `APEACH/test.csv`  in this repositor
 | KoELECTRA-V3       | 0.7920 | 0.8101 |
 | KoBERT             | 0.8030 | 0.7885 |
 
-We also share SOTA model of our dataset which we trained in this experiment as checkpoint, [demo webite](https://master-soongsil-bert-base-beep-deploy-jason9693.endpoint.ainize.ai) and [api](https://github.com/jason9693/SoongsilBERT-base-beep-deploy).
+We also share BEST model of our dataset which we trained in this experiment as checkpoint, [demo webite](https://master-soongsil-bert-base-beep-deploy-jason9693.endpoint.ainize.ai) and [api](https://github.com/jason9693/SoongsilBERT-base-beep-deploy).
 
 ## Contributors
 
