@@ -39,6 +39,16 @@ You can download benchmark set **APEACH**.  `APEACH/test.csv`  in this repositor
 
 We also share BEST model of our dataset which we trained in this experiment as checkpoint, [demo webite](https://master-soongsil-bert-base-beep-deploy-jason9693.endpoint.ainize.ai) and [api](https://github.com/jason9693/SoongsilBERT-base-beep-deploy).
 
+## Citation
+```
+@article{yang2022apeach,
+  title={APEACH: Attacking Pejorative Expressions with Analysis on Crowd-Generated Hate Speech Evaluation Datasets},
+  author={Yang, Kichang and Jang, Wonjun and Cho, Won Ik},
+  journal={arXiv preprint arXiv:2202.12459},
+  year={2022}
+}
+```
+
 ## Contributors
 
 The main contributors of the work ( * : equal contribution) : 
