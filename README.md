@@ -2,6 +2,8 @@
 
 **APEACH** is the first crowd-generated Korean evaluation dataset for hate speech detection. Sentences of the dataset are created by anonymous participants using an online crowdsourcing platform [DeepNatural AI](https://www.deepnatural.ai/).
 
+* Sample Code : <a href="https://colab.research.google.com/drive/1djd0fuoMYIaf7VCHaLQIziJi4_yBJruP#scrollTo=VPR24ysr5Q7k"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="base"/></a>
+
 ## Download
 
 You can download benchmark set **APEACH**.  `APEACH/test.csv`  in this repository.
@@ -24,6 +26,9 @@ You can download benchmark set **APEACH**.  `APEACH/test.csv`  in this repositor
 
 ## Paper
 - https://arxiv.org/pdf/2202.12459.pdf
+
+## Experiment Code
+<a href="https://colab.research.google.com/drive/1djd0fuoMYIaf7VCHaLQIziJi4_yBJruP#scrollTo=VPR24ysr5Q7k"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="base"/></a>
 
 ## Experiment Results
 
